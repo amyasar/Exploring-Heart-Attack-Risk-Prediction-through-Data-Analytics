@@ -2,7 +2,7 @@
 
 ---
 
-**Exploring Heart Attack Risk Prediction through Data Science**
+**Exploring Heart Attack Risk Prediction through Data Analytics**
 
 In my latest project, I conducted an in-depth analysis of a dataset to understand the risk factors associated with heart attacks. Here are the key components and achievements of my work:
 
